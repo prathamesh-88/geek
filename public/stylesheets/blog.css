@@ -1,0 +1,17 @@
+i.desktop{
+    font-size: 2em;
+}
+
+.container.segment,
+.blog,
+.ui.main.text.container {
+    margin-top: 7.0em;
+}
+
+h1{
+    text-align: center;
+}
+
+.buttons.ui{
+    margin-top: 20px;
+}
